@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Mock Liquidity Pool
 
 This MockLiquidityPool contract simulates a basic liquidity pool with functionalities to add/remove liquidity, swap tokens, and retrieve exchange rates or token liquidity. It maintains a mapping of token addresses to their liquidity amounts and enforces checks for sufficient liquidity during operations.
 
